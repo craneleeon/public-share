@@ -1,0 +1,26 @@
+payload:
+  - DOMAIN-SUFFIX,cdninstagram.com,SocialMd
+  - DOMAIN-SUFFIX,instagram.com,SocialMd
+  - DOMAIN-SUFFIX,fb.com,SocialMd
+  - DOMAIN-SUFFIX,fb.me,SocialMd
+  - DOMAIN-SUFFIX,fbaddins.com,SocialMd
+  - DOMAIN-SUFFIX,fbcdn.net,SocialMd
+  - DOMAIN-SUFFIX,fbsbx.com,SocialMd
+  - DOMAIN-SUFFIX,fbworkmail.com,SocialMd
+  - DOMAIN-SUFFIX,m.me,SocialMd
+  - DOMAIN-SUFFIX,messenger.com,SocialMd
+  - DOMAIN-SUFFIX,oculus.com,SocialMd
+  - DOMAIN-SUFFIX,oculuscdn.com,SocialMd
+  - DOMAIN-KEYWORD,discordapp,SocialMd
+  - DOMAIN-KEYWORD,discord,SocialMd
+  - DOMAIN-SUFFIX,tiktok.com,SocialMd
+  - DOMAIN-SUFFIX,tiktokv.com,SocialMd
+  - DOMAIN-SUFFIX,tiktokv.us,SocialMd
+  - DOMAIN-SUFFIX,tiktokcdn.com,SocialMd
+  - DOMAIN-SUFFIX,tiktok.org,SocialMd
+  - DOMAIN-SUFFIX,tiktokcdn-us.com,SocialMd
+  - DOMAIN-SUFFIX,muscdn.com,SocialMd
+  - DOMAIN-SUFFIX,musical.ly,SocialMd
+  - DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net,SocialMd
+  - DOMAIN-KEYWORD,facebook,SocialMd
+  - DOMAIN-KEYWORD,instagram,SocialMd

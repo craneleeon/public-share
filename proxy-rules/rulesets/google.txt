@@ -1,0 +1,24 @@
+payload:
+  - DOMAIN-KEYWORD,google,Google
+  - DOMAIN-KEYWORD,gmail,Google
+  - DOMAIN-SUFFIX,ggpht.com,Google
+  - DOMAIN-SUFFIX,google.com,Google
+  - DOMAIN-SUFFIX,google.cn,Google
+  - DOMAIN-SUFFIX,googleapis.com,Google
+  - DOMAIN-SUFFIX,gmail.com,Google
+  - DOMAIN-SUFFIX,goog,Google
+  - DOMAIN-KEYWORD,youtube,Google
+  - DOMAIN,youtubei.googleapis.com,Google
+  - DOMAIN,yt3.ggpht.com,Google
+  - DOMAIN-SUFFIX,googlevideo.com,Google
+  - DOMAIN-SUFFIX,gvt2.com,Google
+  - DOMAIN-SUFFIX,withyoutube.com,Google
+  - DOMAIN-SUFFIX,youtu.be,Google
+  - DOMAIN-SUFFIX,youtube-nocookie.com,Google
+  - DOMAIN-SUFFIX,youtube.com,Google
+  - DOMAIN-SUFFIX,youtubeeducation.com,Google
+  - DOMAIN-SUFFIX,youtubegaming.com,Google
+  - DOMAIN-SUFFIX,youtubekids.com,Google
+  - DOMAIN-SUFFIX,yt.be,Google
+  - DOMAIN-SUFFIX,ytimg.com,Google
+  - DOMAIN,music.youtube.com,Google
