@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rules": [
+    {
+        "domain_suffix": [
+          "homekit.apple.com",
+          "ls.apple.com",
+          "gs-loc-cn.apple.com",
+          "gs-loc.apple.com",
+          "icloud.com.cn",
+          "push.apple.com",
+          "mesu.apple.com",
+          "lcdn-locator.apple.com",
+          "lcdn-registration.apple.com",
+          "push-apple.com.akadns.net",
+          "akadns.net"
+        ],
+        "domain": [
+          "api.smoot.apple.com",
+          "captive.apple.com",
+          "configuration.apple.com",
+          "guzzoni.apple.com",
+          "reserve-prime.apple.com",
+          "smp-device-content.apple.com"
+        ]
+    }
+  ]
+}

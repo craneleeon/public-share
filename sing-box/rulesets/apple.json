@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "homekit.apple.com",
+        "ess.apple.com",
+        "music.apple.com",
+        "apps.apple.com",
+        "blobstore.apple.com",
+        "mzstatic.com",
+        "play-cdn.itunes-apple.com.akadns.net",
+        "aaplimg.com",
+        "apple-cloudkit.com",
+        "api.cloudmobi.net",
+        "me.com",
+        "icloud.com",
+        "icloud.net",
+        "icloud-service.net",
+        "icloud-content.com",
+        "cdn-apple.com",
+        "ocsp.verisign.net",
+        "appledaily.com",
+        "appledaily.tw",
+        "appstore.com",
+        "apple.comscoreresearch.com",
+        "apple-dns.net",
+        "apple.news",
+        "apple.com",
+        "apple.co",
+        "akamaiedge.net",
+        "crashlytics.com"
+      ],
+      "domain": [
+        "www-cdn.icloud.com.akadns.net"
+      ]
+    }
+  ]
+}
