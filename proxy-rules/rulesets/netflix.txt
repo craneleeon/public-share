@@ -1,5 +1,4 @@
 payload:
-  - USER-AGENT,Argo*,Netflix
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,Netflix
   - DOMAIN-KEYWORD,dualstack.apiproxy-,Netflix
   - DOMAIN-KEYWORD,netflixdnstest,Netflix
